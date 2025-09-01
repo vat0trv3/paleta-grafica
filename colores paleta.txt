@@ -1,0 +1,10 @@
+const colors = {
+  black: "#000000",
+  darkGray: "#1A1A1A",
+  magenta: "#FF00E6",
+  pink: "#FF2AAF",
+  red: "#FF004D",
+  green: "#00FF73",
+  cyan: "#00FFFF",
+  yellow: "#FFFF00",
+  white: "#F2F2F2"
