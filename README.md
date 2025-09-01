@@ -1,6 +1,9 @@
 # paleta-grafica
 paleta de colores de marca 
 ✅ Paleta de colores oficial (const colors = {...}):
+
+![grafics](¨Sistema de Diseño Cibernético.png¨)
+[grafics](¨vatotrave Estilo VT Design System.png¨)
 Nombre	Código Hex	
                                           black	#000000	Fondo principal
                                           darkGray	#1A1A1A	Fondos secundarios o contenedores
